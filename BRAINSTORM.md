@@ -30,7 +30,7 @@ First Part: Payment & Donation System
 
 
 
- Second Part: Kitchen Management System   
+Second Part: Kitchen Management System   
     Kitchen Profiles (40+ Locations)
         Basic Information:
         Kitchen name
@@ -38,11 +38,31 @@ First Part: Payment & Donation System
         Operating hours
         Contact information
         Manager/admin details  
-        
-           
-    Updates & Media System
+
+
+   Updates & Media System
         Post types:
         Text updates
         Photo uploads
         Video uploads
         Status updates
+    
+    Media management:
+        Compression for photos/videos
+        Gallery view
+        Chronological feed
+        Storage optimization
+        Resource Tracking
+
+
+    Manual inventory management:
+        Current stock levels
+        Required items
+        Critical shortage alerts
+
+    Resource categories:
+        Food items
+        Equipment
+        Supplies
+        Financial resources
+
