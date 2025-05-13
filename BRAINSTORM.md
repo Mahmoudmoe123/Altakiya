@@ -37,4 +37,12 @@ First Part: Payment & Donation System
         Location details
         Operating hours
         Contact information
-        Manager/admin details     
+        Manager/admin details  
+        
+           
+    Updates & Media System
+        Post types:
+        Text updates
+        Photo uploads
+        Video uploads
+        Status updates
