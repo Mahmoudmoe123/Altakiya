@@ -27,3 +27,14 @@ First Part: Payment & Donation System
             Progress towards goals
             Historical donation records
             Export functionality for records(csv,pdv,simple text, not sure yet)
+
+
+
+ Second Part: Kitchen Management System   
+    Kitchen Profiles (40+ Locations)
+        Basic Information:
+        Kitchen name
+        Location details
+        Operating hours
+        Contact information
+        Manager/admin details     
