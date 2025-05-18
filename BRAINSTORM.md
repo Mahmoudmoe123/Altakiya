@@ -43,7 +43,7 @@ Brainstorming Final Draft
 - Operating hours  
 - Contact information  
 - Manager/admin details  
-- Manager/admin referral system
+
 
 ## Updates & Media System
 
@@ -137,6 +137,7 @@ Brainstorming Final Draft
 - Update posting  
 - Inventory management  
 - Volunteer coordination  
+- Manager/admin referral system
 
 ## Volunteers
 - Profile management  
