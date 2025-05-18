@@ -43,6 +43,7 @@ Brainstorming Final Draft
 - Operating hours  
 - Contact information  
 - Manager/admin details  
+- Manager/admin referral system
 
 ## Updates & Media System
 
