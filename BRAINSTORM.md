@@ -82,7 +82,6 @@ Brainstorming Final Draft
 - Operating status  
 - Resource needs  
 - Recent updates  
-- complete goal
 
 ## Location Management
 - Add/edit kitchen locations  
