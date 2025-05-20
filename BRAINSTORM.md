@@ -150,6 +150,7 @@ Brainstorming Final Draft
 - Receipt upload  
 - Kitchen status viewing  
 - Progress tracking  
+- Donor Campaign Creation Limitation/auth
 
 # Implementation Phases
 
